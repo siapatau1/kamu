@@ -7,4 +7,4 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/famous-strategy-322916/locations/us-east4/workerPools/KAMU5'
+    name: 'projects/famous-strategy-322916/locations/us-east4/workerPools/KAMU6'
